@@ -490,6 +490,8 @@ body {
   .popup__left {
     width: 33.333333%;
     display: table-cell; }
+    .popup__left img {
+      margin: 2em 0em 0em 2em; }
   .popup__right {
     width: 66.6666667%;
     display: table-cell;
