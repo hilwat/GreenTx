@@ -11,6 +11,6 @@ Backface cards - real images?
 The button underneath? the cards?
 Pop Up for purchase add words & also optimize it for mobile 
 Our service section words? & Bakground? 
-Make the form work - PHP? or how? 
+Make the form work - will try using MailGun
 
 Then deploy! whoot! 
