@@ -889,7 +889,8 @@ body {
 
 .section-stories {
   position: relative;
-  padding: 15rem 0; }
+  padding: 15rem 0;
+  background-image: url(../images/greenery5.png); }
   @media only screen and (max-width: 56.25em) {
     .section-stories {
       padding: 10rem 0; } }
