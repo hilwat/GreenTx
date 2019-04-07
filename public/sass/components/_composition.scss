@@ -11,9 +11,9 @@
 			outline-offset: 2rem;
 
 			@include respond(tab-port) {
-					float: left;
 					position: relative;
-					width: 100%;
+					margin: 1em;
+					width: 80%;
 					box-shadow: 0 1.5rem 3rem rgba($color-black, .2);
 			}
 
