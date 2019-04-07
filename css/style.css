@@ -169,6 +169,12 @@ body {
   .btn--green::after {
     background-color: #55c57a; }
 
+.btn--red {
+  background-color: #ff7730;
+  color: #fff; }
+  .btn--red::after {
+    background-color: #ff7730; }
+
 .btn::after {
   content: "";
   display: inline-block;

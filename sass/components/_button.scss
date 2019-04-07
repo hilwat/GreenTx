@@ -50,6 +50,15 @@
 					background-color: $color-primary;
 			}
 	}
+
+	&--red {
+		background-color: $color-secondary-dark;
+		color: $color-white;
+
+		&::after {
+				background-color: $color-secondary-dark;
+		}
+}
 	
 	&::after {
 			content: "";

@@ -9,7 +9,7 @@
 }
 
 #modal_screen.nope {
-	background-color: #1e0924; 
+	background-color: rgba(0,0,0,.8);
 }
 
 #modal_content {
@@ -50,7 +50,7 @@
 	font:11px/1.5em "proxima-nova", Helvetica,arial,sans-serif;
 } */
 
-#modal_content nav {font-size: 16px; display:table; width: 282px;}
+#modal_content nav {font-size: 16px; display:table; width: 282px; text-transform: uppercase;}
 #modal_content nav ul {display:table-row; width: 100%; margin:0; padding:0;}
 #modal_content nav li {display: table-cell; text-align: right; width: auto;}
 
@@ -64,20 +64,25 @@
 	display: block;
 	text-align: center;
 	color: #888;
-	margin: 1em 0 0;
+	margin: 1em 1em 1em;
+}
+
+#modal_content p {
+	color: #888;
+	margin: 1em 0em 0em;
 }
 
 #modal_content nav a.av_btn {
-	display:block;
-	text-align:center;
-	width: 65px;
-	border-radius: 23px;
-	margin:1em auto 0;
-	text-decoration: none;
-	padding:1em;
-	color: #fff;
-	text-transform: none;
-	letter-spacing: 0;
+	 display:block;
+	 text-align:center;
+	 width: 65px;
+	 border-radius: 10rem;
+	 margin:1em auto;
+	 text-decoration: none;
+	 padding: 0.5em 2em 0.5em 2em;
+	 color: #fff;
+	 text-transform: none;
+	 letter-spacing: 0;
 }
 
 #modal_content nav .av_go {
@@ -85,11 +90,13 @@
 }
 
 #modal_content nav .av_no {
-	background-color: #938d95;
+		background-color: #ff7730;
 }
 
 #modal_content nav .av_btn:hover {
-	background-color: #1e0924;
+	/* background-color: #1e0924; */
+	transform: translateY(-3px);
+			box-shadow: 0 1rem 2rem rgba($color-black,.2);
 }
 
 #modal_content #modal_regret_wrapper nav a.av_btn {
