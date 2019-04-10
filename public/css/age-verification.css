@@ -72,6 +72,12 @@
 	margin: 1em 0em 0em;
 }
 
+/* #modal_content nav a.av_btn {
+	padding:1em 2.5em;
+	margin:1.6em auto 0;
+	font-size: 1em;
+} */
+
 #modal_content nav a.av_btn {
 	 display:block;
 	 text-align:center;
@@ -137,9 +143,4 @@
 
 	#modal_content nav {width: 396px;}
 
-	#modal_content nav a.av_btn {
-		padding:1em 2.5em;
-		margin:1.6em auto 0;
-		font-size: 1em;
-	}
-}
+
