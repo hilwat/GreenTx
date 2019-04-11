@@ -115,7 +115,8 @@ body {
 
 i {
   padding: 1em;
-  z-index: 1999999999; }
+  z-index: 1999999999;
+  color: white; }
 
 .u-center-text {
   text-align: center !important; }
