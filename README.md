@@ -7,10 +7,6 @@ firebase installed > firebase deploy
 ##Still to do 
 Go through check for alternative text - assessibility accessment etc.
 
-Correct social media links and format
-
-Pop Up for purchase add words & also optimize it for mobile 
-
 Make the form work - will try using MailGun
 
 Set up payment button using https://www.powr.io/plugins/paypal-button/standalone?id=19080202& will need their paypal info 
