@@ -233,7 +233,8 @@ i {
   perspective: 150rem;
   -moz-perspective: 150rem;
   position: relative;
-  height: 52rem; }
+  height: 52rem;
+  transform-style: preserve-3d; }
   .card__side {
     height: 52rem;
     transition: all .8s ease;

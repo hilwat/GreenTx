@@ -5,6 +5,7 @@
 	-moz-perspective: 150rem;
 	position: relative;
 	height: 52rem;
+	transform-style: preserve-3d;
 	
 	&__side {
 			height: 52rem;
