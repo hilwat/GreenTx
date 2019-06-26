@@ -1,5 +1,5 @@
 #GreenTx
-![top-page](./public/images/GreenTx-Top.gif)
+![top-page](./public/images/GreenTx-Scroll-From-Top.gif)
 
 ##Notes to be improved but for now
 First time - npm install 
