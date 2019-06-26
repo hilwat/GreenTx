@@ -1,9 +1,12 @@
 # GreenTx
+## Web
 ![top-of-page](./public/images/GreenTx-Scroll-From-Top.gif)
 ![middle-of-page](./public/images/GreenTx-Middle-Section-1.gif)
 ![bottom-of-page](./public/images/GreenTx-Last-Part.gif)
-
-## Notes to be improved but for now
+## Mobile 
+![mobile](public/images/GreenTx-Mobile-Opt.gif)
+![mobile](public/images/GreenTx-Mobile.gif)
+## Notes 
 First time
 ```bash
 npm install 
