@@ -1,7 +1,9 @@
-#GreenTx
-![top-page](./public/images/GreenTx-Scroll-From-Top.gif)
+# GreenTx
+![top-of-page](./public/images/GreenTx-Scroll-From-Top.gif)
+![middle-of-page](.public/images/GreenTx-Middle-Section.gif)
+![bottom-of-page](./public/images/GreenTx-Last-Part.gif)
 
-##Notes to be improved but for now
+## Notes to be improved but for now
 First time - npm install 
 Everytime start in commandline
 $npm run compile:sass
