@@ -1,4 +1,5 @@
 # GreenTx
+Website for a medical cannabis education & conselling service involved advance CSS, intergration to manage paypal and email. 
 ## Web - screenshots
 ![top-of-page](./public/images/GreenTx-Scroll-From-Top.gif)
 ![middle-of-page](./public/images/GreenTx-Middle-Section-1.gif)
