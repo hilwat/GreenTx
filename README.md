@@ -1,11 +1,11 @@
 # GreenTx
-## Web
+## Web - screenshots
 ![top-of-page](./public/images/GreenTx-Scroll-From-Top.gif)
 ![middle-of-page](./public/images/GreenTx-Middle-Section-1.gif)
 ![bottom-of-page](./public/images/GreenTx-Last-Part.gif)
-## Mobile 
-![mobile](public/images/GreenTx-Mobile-Opt.gif)
-![mobile](public/images/GreenTx-Mobile.gif)
+## Mobile - screenshots
+![mobile-popup](public/images/GreenTx-Mobile.gif)
+![mobile-middle](public/images/Greetx-Middle-Mobile.gif)
 ## Notes 
 First time
 ```bash
